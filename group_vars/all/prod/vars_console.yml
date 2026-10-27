@@ -1,0 +1,7 @@
+---
+component_config:
+  console:
+    hostname: ''
+    replicas: 1
+hostname: ''
+replicas: 1
